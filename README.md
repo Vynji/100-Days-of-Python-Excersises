@@ -4,7 +4,7 @@ This repository serves as a portfolio of many self-conducted Python coding exerc
 
 #How It's Made:
 
-The coding language used for these exercises is Python\
+The coding language used for these exercises is Python
 
 #What I Expect to Learn
 
