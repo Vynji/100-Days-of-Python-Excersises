@@ -1,0 +1,13 @@
+welcome = ('Welcome to Royals Salary Paycheck Calculator!')
+print(welcome)
+salary_amt = float((input('How much do you make per year?')))
+pay_sch = (input('Do you get paid weekly, bi-weekly, monthly, or semi-monthly?'))
+state = (input('What state do you live in?'))
+la_tax = round(float(0.8098 * salary_amt), 2)
+if state == ('Louisiana'): 
+    print(f'Your take home salary is: ${la_tax}')
+    
+else:
+    print('hahaha')
+
+#work in progress
